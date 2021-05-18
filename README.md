@@ -139,4 +139,4 @@ spark_kafka_streams_join.py is spark script to read data from kafka sources and 
 
 4. Check console for output
 
-![](result.JPG)
+![](results.JPG)
